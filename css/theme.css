@@ -9875,6 +9875,9 @@ a.skip-link {
 .gallery-caption {
   display: block; }
 
+.homeh1 {
+  color: #d13d14; }
+
 /*
 * Use existing Bootstrap 4 classes and
 * variables to extend - override CF7 style
