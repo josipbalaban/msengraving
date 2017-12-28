@@ -9876,7 +9876,12 @@ a.skip-link {
   display: block; }
 
 .homeh1 {
-  color: #d13d14; }
+  color: #d13d14;
+  font-size: 3em; }
+
+h2 {
+  text-transform: uppercase;
+  color: #ddd; }
 
 /*
 * Use existing Bootstrap 4 classes and
