@@ -33,7 +33,9 @@ endwhile;
 
 		<div class="row">
 			<div class="col-md-4">
-				<img src="/wp-content/uploads/2017/12/logowithtext.png" alt="">
+				<a href="/contact/">				<img src="/wp-content/uploads/2017/12/logowithtext.png" alt="">
+</a>
+
 			</div>
 			<div class="col-md-4">
 				<p>2</p>
