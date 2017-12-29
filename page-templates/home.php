@@ -29,7 +29,7 @@ endwhile;
 
 	<div class="row">
 		<div class="col-md-4">
-			<p>1</p>
+			<img src="/wp-content/uploads/2017/12/logowithtext.png" alt="">
 		</div>
 		<div class="col-md-4">
 			<p>2</p>
