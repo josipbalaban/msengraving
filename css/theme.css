@@ -9543,7 +9543,9 @@ a.skip-link {
   display: block; }
 
 .slider {
-  background: #ddd; }
+  background: #ddd;
+  margin-top: 25px;
+  margin-bottom: 25px; }
   .slider h1 {
     color: blue; }
 

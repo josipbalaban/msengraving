@@ -27,19 +27,22 @@ endwhile;
 		</div>
 	</div>
 
-	<div class="row">
-		<div class="col-md-4">
-			<img src="/wp-content/uploads/2017/12/logowithtext.png" alt="">
-		</div>
-		<div class="col-md-4">
-			<p>2</p>
-		</div>
-		<div class="col-md-4">
-			<p>3</p>
-		</div>
+</div>
 
-	</div>
+<div class="container-fluid">
 
+		<div class="row">
+			<div class="col-md-4">
+				<img src="/wp-content/uploads/2017/12/logowithtext.png" alt="">
+			</div>
+			<div class="col-md-4">
+				<p>2</p>
+			</div>
+			<div class="col-md-4">
+				<a href="/contact/">contact us</a>
+			</div>
+
+		</div>
 </div>
 
 <!-- END PAGE CONTENT  -->
