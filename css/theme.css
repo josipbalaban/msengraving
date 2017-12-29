@@ -9542,8 +9542,10 @@ a.skip-link {
 .gallery-caption {
   display: block; }
 
-.homeh1 {
-  color: blue; }
+.slider {
+  background: #ddd; }
+  .slider h1 {
+    color: blue; }
 
 /*
 * Use existing Bootstrap 4 classes and

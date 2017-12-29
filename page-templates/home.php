@@ -18,8 +18,29 @@ endwhile;
 
 <!-- START PAGE CONTENT -->
 
-<h1 class="homeh1">ms engraving</h1>
-<h2>help!</h2>
+<div class="container">
+
+	<div class="row">
+		<div class="col-md-12 slider">
+			<h1>Mary Star Engraving</h1>
+			<p>we do pretty much everything</p>
+		</div>
+	</div>
+
+	<div class="row">
+		<div class="col-md-4">
+			<p>1</p>
+		</div>
+		<div class="col-md-4">
+			<p>2</p>
+		</div>
+		<div class="col-md-4">
+			<p>3</p>
+		</div>
+
+	</div>
+
+</div>
 
 <!-- END PAGE CONTENT  -->
 
