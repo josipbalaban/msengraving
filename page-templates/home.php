@@ -23,7 +23,7 @@ endwhile;
 	<div class="row">
 		<div class="col-md-12 slider">
 			<h1>Mary Star Engraving</h1>
-			<p>we do pretty much everything</p>
+			<p>Engraving Solutions</p>
 		</div>
 	</div>
 
