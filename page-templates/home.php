@@ -18,12 +18,13 @@ endwhile;
 
 <!-- START PAGE CONTENT -->
 
+
 <div class="container">
 
 	<div class="row">
 		<div class="col-md-12 slider">
 			<h1>Mary Star Engraving</h1>
-			<p>Engraving Solutions</p>
+			<p>Trying to add own text</p>
 		</div>
 	</div>
 
@@ -38,7 +39,7 @@ endwhile;
 
 			</div>
 			<div class="col-md-4">
-				<p>2</p>
+				<p>this is the second coloumn</p>
 			</div>
 			<div class="col-md-4">
 				<a href="/contact/">contact us</a>
